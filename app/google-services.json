@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408275674986",
+    "firebase_url": "https://suraksha-b93eb.firebaseio.com",
+    "project_id": "suraksha-b93eb",
+    "storage_bucket": "suraksha-b93eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408275674986:android:4c8af20c8aaf3d6d",
+        "android_client_info": {
+          "package_name": "com.example.merasuraksha.merasuraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408275674986-oa3cjhaapadi2h027da0sarfcvocb0ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merasuraksha.merasuraksha",
+            "certificate_hash": "f8165a3f7a7e6570c1aaf0de5b4d25e3cbb0fbdf"
+          }
+        },
+        {
+          "client_id": "408275674986-nhib4ip2h00ithks07ttbqsah3116c8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_0laU1Yr4C1COnJC431fpcKzU7HcJON4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408275674986-oc6pfip2t316og62itu68opcmjfn2l6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
