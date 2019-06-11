@@ -1,6 +1,6 @@
 # Meri Suraksha Ambulance Driver Android App
   ###### This android app helps ambulance driver to navigate to point of emergency quicky and suitable hospitals using google maps.
-  ![image](https://drive.google.com/uc?export=view&id=https://drive.google.com/open?id=12VTZVNJaIVc7MOiuLsDr4EIt_w5lTa7e)
+  ![image](https://drive.google.com/uc?export=view&id=id=12VTZVNJaIVc7MOiuLsDr4EIt_w5lTa7e)
 
 
 ## Problem
